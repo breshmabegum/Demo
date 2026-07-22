@@ -96,6 +96,6 @@ To begin my career as a Data Analyst and contribute to data-driven decision-maki
 ## 📫 Connect With Me
 
 * 📧 Email:breshmabegum@gmail.com
-* 💼 LinkedIn:https:https://www.linkedin.com/in/reshma-begum-2057a7290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 💼 LinkedIn:https:https://www.linkedin.com/in/reshma-begum-2057a7290?
 * 💻 GitHub:https://github.com/breshmabegum
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
